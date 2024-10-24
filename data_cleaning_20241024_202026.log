@@ -1,0 +1,11 @@
+2024-10-24 20:20:26,986 - INFO - Successfully loaded dataset with 125718 rows
+2024-10-24 20:20:26,987 - INFO - Initial dataset shape: (125718, 5)
+2024-10-24 20:20:26,994 - INFO - Missing values:
+income_groups    6306
+age              6223
+gender           5907
+year             6202
+population       6340
+dtype: int64
+2024-10-24 20:20:27,027 - INFO - Income groups standardized: 8 categories -> 0 categories
+2024-10-24 20:20:27,027 - ERROR - Error in cleaning pipeline: Can only use .str accessor with string values!
